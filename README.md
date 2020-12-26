@@ -1,2 +1,2 @@
-# awesome-single-cell
-Awesome single-cell.
+# awesome-single-cell-and-ai
+Awesome single-cell and Artificial Intelligence.
