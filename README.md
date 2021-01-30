@@ -1,2 +1,2 @@
-# awesome-single-cell-and-ai
-Awesome single-cell and Artificial Intelligence.
+# awesome-single-cell-and-tumor
+Awesome single-cell and human tumor.
